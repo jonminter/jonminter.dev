@@ -17,7 +17,7 @@ My goals in attempting to write my own version of Raft are:
 - Learn Rust: I am choosing to implement this using Rust mostly because I've long been intrigued by the Rust language and this exercise presents a non-trivial problem to solve with Rust.
 - Share my learnings with others that might read this
 
-### Table of Contents
+## Table of Contents
 
 This will be an ongoing series of posts and new posts will be added to the table of contents as they are published:
 
