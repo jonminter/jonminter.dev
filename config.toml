@@ -1,5 +1,5 @@
 # The URL the site will be built for
-# base_url = "https://www.jonminter.dev"
+base_url = "https://www.jonminter.dev"
 
 theme = "simple-dev-blog"
 
@@ -25,7 +25,10 @@ latest_text = " "
 
 nav = [
   { name = "about", path = "/about/" },
-  { name = "posts", path = "/posts/" }
+  { name = "posts", path = "/posts/" },
+  { name = "email me", path = "mailto: iam@jonminter.dev"},
+  { name = "linkedin", path = "https://www.linkedin.com/in/jonminter" },
+  { name = "github", path = "https://www.github.com/jonminter" }
 ]
 
 dark_mode = true

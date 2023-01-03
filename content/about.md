@@ -9,3 +9,5 @@ Software engineer with over a decade of proven technical ability and leadership.
 Expertise in service oriented architecture/microservices, cloud engineering and designing scalable software systems. Currently learning all I can about topics like functional programming, concurrency, distributed systems and machine learning/AI.
 
 When I'm not in front of of a computer screen you can find me out for run or a hike, in the rock climbing gym or doing some traveling.
+
+- [My Resume](/jonminter-resume.pdf)
