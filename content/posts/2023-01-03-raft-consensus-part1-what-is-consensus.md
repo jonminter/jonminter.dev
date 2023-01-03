@@ -94,6 +94,8 @@ We will see how these nodes transition states and coordinate in the following se
 
 ### Leader election
 
+![Raft leader election state machine diagram](/raft-consensus-part-1/leader-election-state-machine.png)
+
 With Raft leader election is fairly straightforward.
 
 - Initially all nodes are in follower mode.
